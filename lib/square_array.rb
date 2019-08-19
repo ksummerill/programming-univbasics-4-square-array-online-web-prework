@@ -6,11 +6,10 @@
 new_numbers = [9,10,16,25]
 
 
-def square_array(square_numbers)
+def square_array(numbers)
 counter = 0
 new_numbers = [ ]  
-  while numbers[counter] do
-    puts numbers[counter]
+  while counter < numbers ** 2
     counter += 1
   end
   
