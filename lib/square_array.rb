@@ -2,7 +2,7 @@
 # square each element
 # store the new numbers in a new array
 
-numbers = 
+numbers = [1,2,3]
 new_numbers = [9,10,16,25]
 
 
