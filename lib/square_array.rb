@@ -9,7 +9,8 @@ new_numbers = [9,10,16,25]
 def square_array(numbers)
 counter = 0
 new_numbers = [ ]  
-  while counter < numbers.length ** 2
+  while counter < numbers.length do
+    ** 2
     counter += 1
   end
   
