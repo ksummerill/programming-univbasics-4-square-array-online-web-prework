@@ -2,8 +2,8 @@
 # square each element
 # store the new numbers in a new array
 
-numbers = [1,2,3]
-new_numbers = [9,10,16,25]
+# numbers = [1,2,3]
+# new_numbers = [9,10,16,25]
 
 
 def square_array(numbers)
