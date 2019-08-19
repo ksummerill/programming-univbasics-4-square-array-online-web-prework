@@ -4,7 +4,7 @@
 
 counter = 0
 numbers = [1,2,3]
-new_numbers = 
+new_numbers = [9,10,16,25]
 
 
 def square_array(numbers)
@@ -12,4 +12,6 @@ def square_array(numbers)
     puts numbers[counter]
     counter += 1
   end
+  
+  
 end
