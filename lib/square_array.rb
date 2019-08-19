@@ -6,7 +6,7 @@
 new_numbers = [9,10,16,25]
 
 
-def square_array(numbers)
+def square_array(square_numbers)
 counter = 0
 numbers = [1,2,3]  
   while numbers[counter] do
