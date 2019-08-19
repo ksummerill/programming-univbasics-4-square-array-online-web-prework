@@ -5,17 +5,11 @@
 counter = 0
 numbers = [1,2,3]
 
-while numbers[counter] do
-  puts numbers[counter]
-  counter += 1
-end
-
 
 def square_array(array)
-  counter = 0
-  
-  while counter < array.length do
-    puts array[counter]
+  while numbers[counter] do
+    puts numbers[counter]
     counter += 1
   end
+
 end
